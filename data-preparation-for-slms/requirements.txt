@@ -1,0 +1,6 @@
+faiss-cpu
+sentence-transformers
+sentence-transformers==4.1.0
+pandas
+tqdm
+datasets
